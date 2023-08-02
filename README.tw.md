@@ -4,7 +4,7 @@
 <br>
  Gitea-workshop
 </h1>
-<h3>◦ 一個強大開源 Codebase 管理平台 — Gitea 的 Workshop</h3>
+<h3>◦ 一個強大開源 codebase 管理平台 — <a href="https://about.gitea.com/">Gitea</a> 的 Workshop</h3>
 <hr/>
 
 <p align="center">

@@ -4,7 +4,7 @@
 <br>
   Gitea-workshop
 </h1>
-<h3>◦ Workshop on open-source codebase management platform Gitea.</h3>
+<h3>◦ Workshop on open-source codebase management platform <a href="https://about.gitea.com/">Gitea</a>.</h3>
 <hr/>
 
 <p align="center">
