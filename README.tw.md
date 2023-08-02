@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Gitea-609929.svg?style&logo=git&logoColor=white" alt="Gitea" />
 <img src="https://img.shields.io/badge/jest-813754.svg?style&logo=jest&logoColor=white" alt="jest" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style&logo=TypeScript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/github/license/ttpss930141011/Gitea-workshop?style&color=5D6D7E" alt="TypeScript" />
+<img src="https://img.shields.io/github/license/ttpss930141011/Gitea-workshop?style&color=5D6D7E" alt="license" />
 </p>
 
 
