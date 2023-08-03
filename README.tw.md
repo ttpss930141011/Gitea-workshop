@@ -90,7 +90,7 @@ docker-compose up -d
 
 ### **Initialize the repo on Gitea**
 
-其實介面基本上與我們平常使用的工具十分相似，甚至也有可以 Migrate 其他 Codebase 平台的 repo。
+其實介面基本上與我們平常使用的工具十分相似，甚至也有可以 migrate 其他 codebase 平台的 repo。
 
 ![1690997573485.jpg](./images/1690997573485.jpg)
 

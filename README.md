@@ -35,7 +35,7 @@ English Readme | <a href="./README.tw.md">繁體中文 Readme</a>
 
 ## **Foreword**
 
-This workshop at Cloud Summit 2023 was undoubtedly the most valuable one for me. Appleboy demonstrated his exceptional expertise and, alongside four other talented international developers, they created Gitea, an open-source platform similar to Github with a mission to surpass and become the next big thing. Their achievement is truly impressive.
+This workshop at Cloud Summit 2023 was undoubtedly the most valuable one for me. Appleboy demonstrated his exceptional expertise and, alongside four other talented international developers, they created Gitea, an open-source platform similar to Github with a mission to surpass and become the next biggest codebase management platform. Their achievement is truly impressive.
 
 During the workshop, Appleboy highlighted MediaTek's strong emphasis on security in the workplace, where some areas even lack internet access. Under such circumstances, setting up a self-hosted Git service can be quite troublesome. GitLab, though powerful, consumes significant resources when self-hosted. This led to the birth of Gitea, a project written in Golang, compiled into an executable file that can be executed cross-platform with minimal resource requirements. Deploying Gitea on an idle VM enables the entire company to enjoy Git services effortlessly. It's truly remarkable.
 
@@ -88,7 +88,7 @@ References: [https://docs.gitea.com/zh-cn/usage/actions/quickstart](https://docs
 
 ### **Initialize the repo on Gitea**
 
-In fact, the interface is basically very similar to the tools we usually use, and there are even repos that can Migrate other Codebase platforms.
+In fact, the interface is basically very similar to the tools we usually use, and there are even repos that can migrate other Codebase platforms.
 
 ![1690997573485.jpg](./images/1690997573485.jpg)
 
@@ -96,7 +96,7 @@ After building the project, we need to open the Gitea Actions function of Repo i
 
 Please refer to the documentation [https://docs.gitea.com/usage/actions/quickstart#use-actions](https://docs.gitea.com/usage/actions/quickstart#use-actions)
 
-In the QA page, it is also mentioned that the Actions of the new warehouse can be enabled by default, [hyperlink](https://docs.gitea.com/usage/actions/faq#is-it-possible-to-enable-actions-for -new-repositories-by-default-for-my-own-instance).
+In the QA page, it is also mentioned that the Actions of the new warehouse can be enabled by default, [hyperlink](https://docs.gitea.com/usage/actions/faq#is-it-possible-to-enable-actions-for-new-repositories-by-default-for-my-own-instance).
 
 ### **Push your repo**
 
@@ -104,7 +104,7 @@ You can use the test-repo in this repo to push up to test whether CI will procee
 
 ![1690997955121.jpg](./images/1690997955121.jpg)
 
-#### **Small Pit**
+#### **Note**
 
 At the beginning, I pushed the Python project and used pytest for testing, but encountered an error of Version 3.11.4 was not found in the local cache as shown in the figure.
 
